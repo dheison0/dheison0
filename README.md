@@ -1,4 +1,4 @@
-/dev/sdc1 swap swap pri=0 0 0### Hi there 👋
+### Hi there 👋
 
 Hello people(or robot?) there is some thinks about me:
 
@@ -16,5 +16,5 @@ Hello people(or robot?) there is some thinks about me:
 <div style="display:inline" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dheisom&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Dheisom github stats" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheisom&hide=Makefile&layout=compact" height="150" alt="Dheisom top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheisom" height="150" alt="Dheisom top langs" />
 </div>
