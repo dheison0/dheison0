@@ -1,4 +1,4 @@
-### Hi there 👋
+/dev/sdc1 swap swap pri=0 0 0### Hi there 👋
 
 Hello people(or robot?) there is some thinks about me:
 
@@ -14,7 +14,7 @@ Hello people(or robot?) there is some thinks about me:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 <div style="display:inline" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=edmilson-dk&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Edmilson github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dheisom&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Dheisom github stats" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilson-dk&hide=Makefile&layout=compact" height="150" alt="Edmilson top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheisom&hide=Makefile&layout=compact" height="150" alt="Dheisom top langs" />
 </div>
