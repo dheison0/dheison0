@@ -4,7 +4,7 @@ Hello people(or robot?) there is some thinks about me:
 
 - 🔭 I’m currently working on a new version of my RSS telegram robot
 - 🌱 I’m currently learning Docker and Go FIbber framework
-- 📫 How to reach me: [Telegram](https://t.me/dheisomgomes), [Instagram](https://instagram.com/dheisomgomes), [Email](dheisomgomes0@gmail.com) 
+- 📫 How to reach me: [Telegram](https://t.me/dheisomgomes), [Instagram](https://instagram.com/dheisomgomes), [Email](mailto://dheisomgomes0@gmail.com) 
 
 
 <div style="display:inline" align="center">
