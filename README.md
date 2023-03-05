@@ -1,40 +1,38 @@
-## Olá, bem vindo(a) ao meu perfil :)
+## Hello and welcome to my profile
 
-Me chamo Dheisom, sou morador da zona rural de uma pequena cidade no Piauí,
-gosto de desenvolver APIs e CLIs, atualmente estou estudando principalmente
-desenvolvimento mobile usando React Native como framework base,
-sou usuário e entusiasta dos sistemas baseados em Linux, atualmente usando
-Debian como distribuição principal e alpine em uma maquina virtual.
+Hi, I'm Dheison Gomes, a linux entusiast and backend in formation programmer
+with focus on API & Chatbot development, I'm  learning about mobile development
+using React Native and cloud development with [Docker], Actually building a [TabNews][tabnews-site]
+mobile client focused on simplicify and performance, so come with me in this journey!
 
-  - 🔭 Trabalhando em: [VacaTorrent] e [vacatorrent-api]
-  - 🌱 Aprendendo: 📱 [React Native], 🦀 [Rust], 🐋 [Docker]
-  - 📫 Contato: [Instagram], [Telegram] ou [WhatsApp]
+  - 🌱 Learning: 📱 [React Native], 🐋 [Docker]
+  - 🔭 Working on: [TabNews][tabnews-app] app
+  - 📫 Talk with me: [Instagram], [Telegram] or [WhatsApp]
 
+😄 What I use:
 
-<div>
-  <img alt="JavaScript" width=42 height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Python" width=42 height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Go" width=42 height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-  <img alt="Lua" width=42 height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
-</div>
+  ![Golang](https://img.shields.io/badge/-Golang-225?style=flat-square&logo=go)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+  ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+  ![Docker](https://img.shields.io/badge/-Docker-335?style=flat-square&logo=docker)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
 ## &#x1f4c8; Status
 
-<div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=dheisom&show_icons=true&line_height=27&count_private=true&theme=dracula&locale=pt-br' />
-</div>
-<br/>
-<div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dheisom&langs_count=10&layout=compact&hide=vim%20script&theme=dracula&locale=pt-br' />
+<div align='center' >
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dheisom&langs_count=10&layout=compact&hide=vim%20script&theme=dracula&locale=en' />
+  <img src='https://github-readme-stats.vercel.app/api?username=dheisom&show_icons=true&line_height=27&count_private=true&theme=dracula&locale=en' />
 </div>
 
 <!-- Links -->
-[VacaTorrent]: <https://github.com/dheisom/vacatorrent>
-[vacatorrent-api]: <https://github.com/dheisom/vacatorrent-api>
+[tabnews-site]: <https://www.tabnews.com.br>
+[tabnews-app]: <https://github.com/dheisom/Tabnews>
 [React Native]: <https://reactnative.dev>
 [Docker]: <https://www.docker.com/>
-[Rust]: <https://www.rust-lang.org>
 [Instagram]: <https://instagram.com/dheisomgomes>
 [Telegram]: <https://t.me/dheisomgomes>
 [WhatsApp]: <https://wa.me/qr/S3T7RDJPBZOSH1>
