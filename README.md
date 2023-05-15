@@ -26,6 +26,6 @@ What I use:
 </div>
 
 <!-- Links -->
-[Instagram]: <https://instagram.com/dheisomgomes>
-[Telegram]: <https://t.me/dheisomgomes>
+[Instagram]: <https://instagram.com/dheison0>
+[Telegram]: <https://t.me/dheison0>
 [WhatsApp]: <https://wa.me/qr/S3T7RDJPBZOSH1>
