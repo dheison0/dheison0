@@ -4,7 +4,6 @@ Hi, I'm Dheison Gomes, a linux entusiast and backend in formation programmer
 with focus on API & Chatbot development.
 
   - Learning: [React Native](https://reactnative.dev), [Docker](https://www.docker.com)
-  - Working on: [Anna's Archive APP](https://github.com/dheison0/annas-archive)
   - Talk with me:
     - [Instagram]
     - [Telegram]
