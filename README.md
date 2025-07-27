@@ -1,6 +1,3 @@
-# Hi, I'm Dheison
+# Bem vindo(a)
 
-I use the following tools for many of my work here: Go, Python, JavaScript and off course Docker
-
-I like to create servers for a variety kind of things, nowadays I'm working many of my time on a system for a burger place from where I live.
-Hope you enjoy my projects here :)
+Me chamo Dheison, sou estudante da computação desde os 16 anos, já estudei linguagens como Python, Rust, Go, Lua, JavaScript e outras que não cheguei a utilizar, atualmente estou cursando Ciências da Computação na Gran Faculdade, a qual teve inicio em abril de 2024, gosto de criar ferramentas de linha de comando e servidores para tarefas pesadas e repetitivas, parte disso vem do Linux que comecei a utilizar desde quando obtive meu primeiro notebook, se quiser saber mais sobre minha pessoal ou encontrar meios de comunicação você pode acessar o meu website em https://dheison0.github.io, desde já agradeço o interesse em meu trabalho!
